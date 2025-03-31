@@ -3,7 +3,7 @@ import DefaultDiv from "./defaultDiv";
 export default function App() {
   return (
     <DefaultDiv className={"relative"}>
-      <div className=" fixed z-50 top-6 left-0 right-0 mx-auto w-6xl rounded-full bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-90 flex items-center gap-3 py-3 px-8 justify-between">
+      <div className=" fixed z-50 top-6 left-0 right-0 mx-auto w-6xl rounded-full bg-slate-400/25 backdrop-blur-md flex items-center gap-3 py-3 px-8 justify-between">
         <span className="text-lg uppercase text-bol font-bold ">Portfolio Web</span>
         <div className="flex items-center gap-12 justify-between">
           <div className="flex items-center gap-3">
