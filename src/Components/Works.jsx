@@ -10,12 +10,12 @@ export default function App() {
       </div>
       <div className="pt-18 flex flex-col gap-34">
         <div className="flex justify-between">
-          <div className="relative pt-8">
-            <span className="text-lg text-cyan-700 font-bold">
+          <div className="relative pt-8 pl-20">
+            <span className="text-lg text-cyan-800 font-bold">
               Lorem ipsum dolor sit.
             </span>
-            <h3 className="font-bold text-5xl mt-2 mb-9">Example Project</h3>
-            <p className="absolute w-180 bg-slate-800/30 backdrop-blur-md py-8 px-12 text-gray-200  text-2xl rounded-2xl">
+            <h3 className="font-bold text-5xl mt-1 mb-9">Example Project</h3>
+            <p className="absolute w-160 bg-slate-800/30 backdrop-blur-md py-7 px-9 text-gray-200 text-xl rounded-2xl">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
               saepe vel sit, cumque excepturi minima ducimus doloremque eaque
               non laboriosam iure impedit.
@@ -34,12 +34,12 @@ export default function App() {
             alt=""
           />
 
-          <div className="relative pt-8 text-end">
-            <span className="text-lg text-cyan-700 font-bold">
+          <div className="relative pt-8 pr-20 text-end">
+            <span className="text-lg text-cyan-800 font-bold">
               Lorem ipsum dolor sit.
             </span>
-            <h3 className="font-bold text-5xl mt-2 mb-9">Example Project</h3>
-            <p className="absolute right-0 w-180 bg-slate-800/30 backdrop-blur-md py-8 px-12 text-gray-200 text-2xl rounded-2xl text-start">
+            <h3 className="font-bold text-5xl mt-1 mb-9">Example Project</h3>
+            <p className="absolute right-20 w-160 bg-slate-800/30 backdrop-blur-md py-7 px-9 text-gray-200 text-xl rounded-2xl">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
               saepe vel sit, cumque excepturi minima ducimus doloremque eaque
               non laboriosam iure impedit.
@@ -47,12 +47,12 @@ export default function App() {
           </div>
         </div>
         <div className="flex justify-between">
-          <div className="relative pt-8">
-            <span className="text-lg text-cyan-700 font-bold">
+          <div className="relative pt-8 pl-20">
+            <span className="text-lg text-cyan-800 font-bold">
               Lorem ipsum dolor sit.
             </span>
-            <h3 className="font-bold text-5xl mt-2 mb-9">Example Project</h3>
-            <p className="absolute w-180 bg-slate-800/30 backdrop-blur-md py-8 px-12 text-gray-200  text-2xl rounded-2xl">
+            <h3 className="font-bold text-5xl mt-1 mb-9">Example Project</h3>
+            <p className="absolute w-160 bg-slate-800/30 backdrop-blur-md py-7 px-9 text-gray-200 text-xl rounded-2xl">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
               saepe vel sit, cumque excepturi minima ducimus doloremque eaque
               non laboriosam iure impedit.

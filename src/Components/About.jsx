@@ -8,7 +8,7 @@ export default function App() {
           About Me
         </span>
       </div>
-      <div className="mt-25 flex justify-center gap-12">
+      <div className="mt-25 flex justify-center gap-18">
         <div className="relative">
           <img
             className="w-120 h-140 object-cover object-[25%_75%] relative z-10"
