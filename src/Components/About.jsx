@@ -15,7 +15,7 @@ export default function App() {
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbor.forbes.com%2Fthumbor%2Ffit-in%2F900x510%2Fhttps%3A%2F%2Fwww.forbes.com%2Fadvisor%2Fwp-content%2Fuploads%2F2023%2F07%2Fcomputer-coding.jpg&f=1&nofb=1&ipt=84138113da605b06405c0e671a99cc3850972a8bd00f4bf9aab27fbc34c9f882&ipo=images"
             alt=""
           />
-          <div className="w-120 h-140 border-2 border-indigo-700 dark:border-amber-200 absolute -top-9 -left-9 z-20"/>
+          <div className="w-120 h-140 border-3 border-indigo-700 dark:border-amber-200 absolute -top-9 -left-9 z-20"/>
         </div>
         <div className="w-130">
           <h2 className="text-2xl font-bold">
