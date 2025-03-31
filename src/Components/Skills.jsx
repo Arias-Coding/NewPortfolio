@@ -23,26 +23,10 @@ export default function App() {
         <div className="text-center">
           <img
             className="w-22 h-22"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Ftypescript%2Ftypescript-4096.png&f=1&nofb=1&ipt=17b766d58dc6878b902081abe92e28bde62ac9d428320431eed468c15d9fcc49&ipo=images"
-            alt=""
-          />
-          <span className="text-xl">TypeScript</span>
-        </div>
-        <div className="text-center">
-          <img
-            className="w-22 h-22"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A512%2F1*zXu2vsYPZ5mqF0tOB7kupA.png&f=1&nofb=1&ipt=b6972018ec901f92b1f357213f48dbf3eca2a0717a99d6f2aeccb827577a437e&ipo=images"
             alt=""
           />
           <span className="text-xl">React</span>
-        </div>
-        <div className="text-center">
-          <img
-            className="w-23 h-22"
-            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogonoid.com%2Fimages%2Fsass-logo.png&f=1&nofb=1&ipt=1170aa83be51883a369b14516c9fcb2358f27afbcb2bc3c2eed0b3173d43d1e6&ipo=images"
-            alt=""
-          />
-          <span className="text-xl">Sass</span>
         </div>
         <div className="text-center">
           <img
@@ -66,6 +50,14 @@ export default function App() {
         Las tecnologias las cuales estoy estudiando:
       </h3>
       <div className="mt-12 w-190 mx-auto flex flex-wrap gap-9 justify-center">
+        <div className="text-center">
+          <img
+            className="w-22 h-22"
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Ftypescript%2Ftypescript-4096.png&f=1&nofb=1&ipt=17b766d58dc6878b902081abe92e28bde62ac9d428320431eed468c15d9fcc49&ipo=images"
+            alt=""
+          />
+          <span className="text-xl">TypeScript</span>
+        </div>
         <div className="text-center">
           <img
             className="w-22 h-22"
@@ -97,6 +89,14 @@ export default function App() {
             alt=""
           />
           <span className="text-xl">MongoDB</span>
+        </div>
+        <div className="text-center">
+          <img
+            className="w-20 h-22"
+            src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig"
+            alt=""
+          />
+          <span className="text-xl">Vercel</span>
         </div>
       </div>
 
