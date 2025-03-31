@@ -2,7 +2,7 @@ import DefaultDiv from "./defaultDiv";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={""} className={"py-26"}>
+    <DefaultDiv bgColor={""} className={"py-20 md:py-26"}>
       <h3 className="text-4xl font-bold">Contact Me</h3>
       <p className="md:text-lg 2xl:w-160 mt-7">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore nisi

@@ -2,7 +2,7 @@ import DefaultDiv from "./defaultDiv";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={"bg-slate-300"} className={"py-26"}>
+    <DefaultDiv bgColor={"bg-slate-300"} className={"py-19 md:py-26"}>
       <div className="flex justify-center">
         <span className="py-1.5 px-4 rounded-4xl bg-cyan-700 text-amber-50 tex-sm">
           About Me

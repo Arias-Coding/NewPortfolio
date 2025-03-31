@@ -3,7 +3,7 @@ import Logo from "./Logo";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={""} className={"pt-22 pb-24"}>
+    <DefaultDiv bgColor={""} className={"py-19 md:py-26"}>
       <div className="flex justify-center">
         <span className="py-1.5 px-4 rounded-4xl bg-cyan-700 text-amber-50 tex-sm">
           Skills

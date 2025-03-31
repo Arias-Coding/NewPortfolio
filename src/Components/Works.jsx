@@ -2,13 +2,13 @@ import DefaultDiv from "./defaultDiv";
 
 export default function App() {
   return (
-    <DefaultDiv bgColor={"bg-slate-300"} className={"py-26"}>
+    <DefaultDiv bgColor={"bg-slate-300"} className={"py-19 md:py-26"}>
       <div className="flex justify-center">
         <span className="py-1.5 px-4 rounded-4xl bg-cyan-700 text-amber-50 tex-sm">
           Works
         </span>
       </div>
-      <div className="pt-18 flex flex-col gap-34">
+      <div className="pt-18 flex flex-col gap-20 lg:gap-34">
         <div className="flex flex-wrap-reverse justify-between 2xl:flex-nowrap">
           <div className="relative pt-8 2xl:pl-20">
             <span className="text-lg text-cyan-800 font-bold">
