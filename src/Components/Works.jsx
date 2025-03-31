@@ -4,7 +4,7 @@ export default function App() {
   return (
     <DefaultDiv bgColor={"bg-slate-300"} className={"py-26"}>
       <div className="flex justify-center">
-        <span className="py-1.5 px-4 rounded-4xl bg-cyan-800 text-amber-50 tex-sm">
+        <span className="py-1.5 px-4 rounded-4xl bg-cyan-700 text-amber-50 tex-sm">
           Works
         </span>
       </div>

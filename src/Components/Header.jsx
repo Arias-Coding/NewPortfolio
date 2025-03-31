@@ -6,25 +6,26 @@ export default function App() {
       <div className="flex flex-wrap-reverse gap-12 justify-between items-center">
         <div className="xl:w-150 xl:h-60 mt-10 2xl:mt-0">
           <h1 className="text-5xl font-black">Hola, Soy yo 👋</h1>
-          <p className="pt-4 font-semibold text-gray-800 text-lg">
+          <p className="pt-4 font-semibold text-gray-800 md:text-lg">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto
             deserunt sapiente sint eius expedita optio ab! Quo sed voluptatum
             dicta ab, nisi nihil quia sequi aut debitis a vel nulla perspiciatis
             natus vero at voluptatem!
           </p>
+
           <div className="mt-6 2xl:mt-12">
             <div className="flex items-center gap-2">
               <img
-                className="w-6 h-6"
+                className="w-4 h-4 lg:w-6 lg:h-6"
                 src="/pin-sharp-circle-624-svgrepo-com.svg"
               />
-              <span className="text-lg">Buenos Aires, Argentina</span>
+              <span className="md:text-lg">Buenos Aires, Argentina</span>
             </div>
             <div className="flex items-center gap-2 mt-4">
-              <div className="w-6 h-6 flex items-center justify-center">
-                <div className="w-3 h-3 bg-green-500 rounded-full" />
+              <div className="w-4 h-4 lg:w-6 lg:h-6 flex items-center justify-center">
+                <div className="w-2 h-2 lg:w-3 lg:h-3 bg-green-500 rounded-full" />
               </div>
-              <span className="text-lg">Disponible para nuevos proyectos</span>
+              <span className="md:text-lg">Disponible para nuevos proyectos</span>
             </div>
           </div>
         </div>
@@ -42,25 +43,22 @@ export default function App() {
       
       <div className="flex items-center gap-5 pt-10 xl:pt-20">
         <a href="">
-          {" "}
           <img
-            className="w-8 h-8"
+            className="w-6 h-6 lg:w-8 lg:h-8"
             src="./github-142-svgrepo-com.svg"
             alt=""
           />
         </a>
         <a href="">
-          {" "}
           <img
-            className="w-10 h-10"
+            className="w-8 h-8 lg:w-10 lg:h-10"
             src="./linkedin-svgrepo-com.svg"
             alt=""
           />
         </a>
         <a href="">
-          {" "}
           <img
-            className="w-10 h-10"
+            className="w-8 h-8 lg:w-10 lg:h-10"
             src="./twitter-3-svgrepo-com.svg"
             alt=""
           />

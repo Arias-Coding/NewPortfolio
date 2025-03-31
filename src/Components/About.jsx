@@ -4,7 +4,7 @@ export default function App() {
   return (
     <DefaultDiv bgColor={"bg-slate-300"} className={"py-26"}>
       <div className="flex justify-center">
-        <span className="py-1.5 px-4 rounded-4xl bg-cyan-800 text-amber-50 tex-sm">
+        <span className="py-1.5 px-4 rounded-4xl bg-cyan-700 text-amber-50 tex-sm">
           About Me
         </span>
       </div>
@@ -22,14 +22,14 @@ export default function App() {
           <h2 className="text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam.
           </h2>
-          <p className="mt-4 text-gray-800 font-semibold text-lg">
+          <p className="mt-4 text-gray-800 font-semibold md:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
             fugiat beatae. Pariatur similique, rem quia saepe neque iste
             dignissimos impedit minima quos dolores maiores.
           </p>
-          <p className="mt-4 text-gray-800 font-semibold text-lg">
+          <p className="mt-4 text-gray-800 font-semibold md:text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
