@@ -9,7 +9,7 @@ export default function App() {
           Skills
         </span>
       </div>
-      <h3 className="text-center text-2xl font-semibold mt-6">
+      <h3 className="text-center text-lg lg:text-2xl font-semibold mt-6">
         Las tecnologias y herramientas con las que suelo trabajar:
       </h3>
       <div className="mt-12 2xl:w-190 mx-auto flex flex-wrap gap-9 justify-center">
@@ -39,7 +39,7 @@ export default function App() {
         />
       </div>
 
-      <h3 className="text-center text-2xl font-semibold mt-18">
+      <h3 className="text-center text-lg lg:text-2xl font-semibold mt-18">
         Tecnologias las cuales me encuentro estudiando:
       </h3>
       <div className="mt-12 2xl:w-190 mx-auto flex flex-wrap gap-9 justify-center">
@@ -79,7 +79,7 @@ export default function App() {
         />
       </div>
 
-      <h3 className="text-center text-2xl font-semibold mt-18">
+      <h3 className="text-center text-lg lg:text-2xl font-semibold mt-18">
         Tecnologias en las que estoy interesado en aprender:
       </h3>
       <div className="mt-12 2xl:w-190 mx-auto flex flex-wrap gap-9 justify-center">
