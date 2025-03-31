@@ -47,7 +47,7 @@ export default function App() {
       </div>
 
       <h3 className="text-center text-2xl font-semibold mt-18">
-        Las tecnologias las cuales estoy estudiando:
+        Las tecnologias las cuales me encuentro estudiando:
       </h3>
       <div className="mt-12 w-190 mx-auto flex flex-wrap gap-9 justify-center">
         <div className="text-center">
@@ -104,6 +104,14 @@ export default function App() {
         Las tecnologias en las que estoy interesado en aprender:
       </h3>
       <div className="mt-12 w-190 mx-auto flex flex-wrap gap-9 justify-center">
+        <div className="text-center">
+          <img
+            className="w-34 h-22"
+            src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png"
+            alt=""
+          />
+          <span className="text-xl">Redux</span>
+        </div>
         <div className="text-center">
           <img
             className="w-34 h-22"
