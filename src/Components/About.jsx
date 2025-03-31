@@ -18,17 +18,17 @@ export default function App() {
           <div className="w-120 h-140 border-3 border-indigo-700 dark:border-amber-200 absolute -top-9 -left-9 z-20"/>
         </div>
         <div className="w-130">
-          <h2 className="text-2xl font-bold">
+          <h2 className="text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam.
           </h2>
-          <p className="mt-3 text-gray-800 dark:text-neutral-300 font-semibold drak:text-neutral-300 text-lg">
+          <p className="mt-4 text-gray-800 dark:text-neutral-300 font-semibold drak:text-neutral-300 text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
             fugiat beatae. Pariatur similique, rem quia saepe neque iste
             dignissimos impedit minima quos dolores maiores.
           </p>
-          <p className="mt-3 text-gray-800 dark:text-neutral-300 font-semibold drak:text-neutral-300 text-lg">
+          <p className="mt-4 text-gray-800 dark:text-neutral-300 font-semibold drak:text-neutral-300 text-lg">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
             temporibus nostrum consequuntur, placeat sapiente maxime, quis
             eligendi ducimus id quia excepturi nobis ab dolores cupiditate
