@@ -8,16 +8,17 @@ export default function App() {
           About Me
         </span>
       </div>
-      <div className="mt-25 flex justify-center gap-18">
-        <div className="relative">
+
+      <div className="mt-25 flex flex-wrap justify-center gap-18">
+        <div className="relative w-100 h-120 2xl:w-120 2xl:h-140">
           <img
-            className="w-120 h-140 object-cover object-[25%_75%] relative z-10"
+            className="w-full h-full object-cover object-[25%_75%] relative z-10"
             src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbor.forbes.com%2Fthumbor%2Ffit-in%2F900x510%2Fhttps%3A%2F%2Fwww.forbes.com%2Fadvisor%2Fwp-content%2Fuploads%2F2023%2F07%2Fcomputer-coding.jpg&f=1&nofb=1&ipt=84138113da605b06405c0e671a99cc3850972a8bd00f4bf9aab27fbc34c9f882&ipo=images"
             alt=""
           />
-          <div className="w-120 h-140 border-3 border-indigo-700 dark:border-amber-200 absolute -top-9 -left-9 z-20"/>
+          <div className="w-full h-full border-3 border-indigo-700 dark:border-amber-200 absolute -top-3 -left-3 lg:-top-9 lg:-left-9 z-20"/>
         </div>
-        <div className="w-130">
+        <div className="2xl:w-130">
           <h2 className="text-3xl font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam.
           </h2>

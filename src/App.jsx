@@ -6,7 +6,6 @@ import Works from "./Components/Works";
 import Footer from "./Components/Footer";
 
 function App() {
-
   return (
     <div>
       <Navbar />
